@@ -73,6 +73,8 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `notes on software`,
+    author: "tiff",
+    description: "A collection of notes and things I am thinking about.",
   },
 }
