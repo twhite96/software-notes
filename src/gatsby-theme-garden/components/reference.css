@@ -3,7 +3,8 @@
 }
 
 .reference:hover {
-  color: white;
+  color: var(--references-highlight);
+  background-color: white;
 }
 
 .reference > div {
