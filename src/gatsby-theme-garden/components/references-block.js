@@ -7,10 +7,9 @@ const ReferencesBlock = ({ references }) => {
   const footer = (
     <React.Fragment>
       <p>
-        If you enjoy these notes,{" "}
-        <a href="mailto:tiff@omg.lol">send me a message</a>! Otherwise you can browse through{" "}
-        <a href="https://tiffany.lol">my bio</a> to find other ways to connect
-        with me.
+        Have anything to add?{" "} You can reach out to me by {" "}
+        <a href="mailto:tiffany@tiffanywhite.dev">email</a> or{" "}
+        You can find more of my stuff on my{" "} <a href="https://links.tiffanywhite.dev">links page</a>.
       </p>
     </React.Fragment>
   )
