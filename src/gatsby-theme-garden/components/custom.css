@@ -1,4 +1,8 @@
 /** Add any custom CSS you want here **/
+
+body {
+  font-size: 1.3em;
+}
 /* Prismjs laserwave theme */
 
 code[class*="language-"],
