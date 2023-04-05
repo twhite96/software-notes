@@ -21,7 +21,7 @@ body.light-mode {
   --references-bg: white;
   --references-bg-80: rgb(255, 255, 255, .8);
   --references-bg-0: rgb(235, 244, 255, 0);
-  --references-text: #888888
+  --references-text: #888888;
   --references-highlight: #4a5568;
 }
 
