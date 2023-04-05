@@ -235,3 +235,11 @@ pre[class*="language-"] {
     white-space: normal;
     font-family: 'Fira Code', monospace;
 }
+a[href^="http"] {
+  color: #0984ff;
+}
+
+a {
+  text-decoration: none;
+  color: #0984ff;
+}
