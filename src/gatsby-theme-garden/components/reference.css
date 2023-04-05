@@ -4,7 +4,7 @@
 
 .reference:hover {
   color: var(--references-highlight);
-  background-color: white;
+  background-color: var(--references-bg);
 }
 
 .reference > div {
