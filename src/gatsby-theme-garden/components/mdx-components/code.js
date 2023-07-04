@@ -5,7 +5,7 @@ import Highlight, {defaultProps} from 'prism-react-renderer'
 import {LiveProvider, LiveEditor, LiveError, LivePreview} from 'react-live'
 import {mdx} from '@mdx-js/react'
 
-export function CodeBlock ({children, className, live, render}) {
+export default ({children, className, live, render}) => {
 
   const language = className.replace(/language-/, '')
 

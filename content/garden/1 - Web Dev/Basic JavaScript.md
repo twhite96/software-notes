@@ -1,6 +1,6 @@
 # Basic JavaScript
 
-import { CodeBlock } from "code.js"
+import { Code } from "code.js"
 
 **Keywords**
 `const` vs `let`:
@@ -16,13 +16,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Op
 ### Closures
 
   
-<CodeBlock>
+<Code>
 // this is a pure function as it only returns the values of its inputs
 
 function pureFun(a, b) {
   return a + b;
 }
-</CodeBlock>
+</Code>
 
   
 
