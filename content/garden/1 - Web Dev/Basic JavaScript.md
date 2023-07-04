@@ -16,13 +16,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Op
 ### Closures
 
   
-<Code>
+```js
 // this is a pure function as it only returns the values of its inputs
 
 function pureFun(a, b) {
   return a + b;
 }
-</Code>
+```
 
   
 
