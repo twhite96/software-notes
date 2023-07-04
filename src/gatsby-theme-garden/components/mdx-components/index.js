@@ -2,4 +2,4 @@
 export { AnchorTag as a } from "gatsby-theme-garden/src/components/mdx-components/anchor-tag"
 
 // your own component to inject into mdx
-export { code } from "gatsby-theme-garden/src/components/mdx-components/code" // any code block with use this component
+export { Code } from "gatsby-theme-garden/src/components/mdx-components/code" // any code block with use this component
