@@ -1,7 +1,5 @@
 # Basic JavaScript
 
-import { Code } from "code.js"
-
 **Keywords**
 `const` vs `let`:
 
